@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Broadband Holdings, llc
+title: Broadband Holdings
 email: tlee@bbh-llc.com
 description: >- # this means to ignore newlines until "baseurl:"
   Upgrade your network and embrace data innovation - 
@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Optimize where and how to use WiFi - 
   10/25G EPON, XGSPON or rPHY - CBRS & 5G - 
   Linear optimization or Machine Learning
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /welcome # "" the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: trackingtech2
 github_username:  bbh-llc
