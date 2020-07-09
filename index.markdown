@@ -8,7 +8,7 @@ slug: about
 title: About
 wordpress_id: 2
 ---
-![image](/antenna.jpg)
+![image](/assets/img/antenna.jpg)
 
 ## Our Story
 
