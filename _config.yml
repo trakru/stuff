@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Broadband Holdings
-email: tlee@bbh-llc.com
+subtitle: tracking technology trends in the public utilities space
+email: admin@bbh-llc.com
 description: >- # this means to ignore newlines until "baseurl:"
   Upgrade your network and embrace data innovation - 
   Let us help you maximise the power of your infrastructure - 
