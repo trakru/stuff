@@ -1,9 +1,10 @@
 ---
 layout: post
-author: siteAdmin
+author: admin@bbh-llc.com
 title:  "Public Utilities & gigabit internet"
 date:   2020-07-08 15:17:16 -0400
 categories: gigabit internet
+tag: utilities
 excerpt_separator: <!--more-->
 ---
 
@@ -12,6 +13,12 @@ while they tend to be funded/backed by the local municipalities and thus enjoy s
 players that may be operating in their market viz. Comcast, Charter, Altice and so forth. Therefore, their services tend to be evaluated in the same 
 breath as someone who perhaps has a billion dollars set aside for [engineering budget](https://en.wikipedia.org/wiki/Comcast_Technology_Center)
 
+
+As a result, techbnology suppliers tend to service the needs of the larger MSOs while Utilities end up having to navigate a confused mish-mash of resourcdes,
+products & technologies that they were never the intended primary target audience for. 
+
+Through this blog, we intend to create resources that could help operators choose/decide between various technology options avilable to them. These resources are 
+intended to be free, but if you wish to contact us - please feel free to fill in the contact form or drop an email to us
 
 <!---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
