@@ -5,3 +5,6 @@ layout: page
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
 {{ content }}
+
+{% include GoogleTagManager_head.liquid %}
+{% include GoogleTagManager_body.liquid %}
