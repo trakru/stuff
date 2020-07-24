@@ -3,7 +3,7 @@ layout: post
 author: admin@bbh-llc.com
 title:  "Public Utilities & gigabit internet"
 date:   2020-07-08 15:17:16 -0400
-categories: ['gigabit internet']
+categories: ['gigabit internet', 'introduction']
 tags: ['utilities', 'network', 'gigabit']
 excerpt_separator: <!--more-->
 ---
