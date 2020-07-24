@@ -3,12 +3,17 @@ layout: post
 author: admin@bbh-llc.com
 title:  "Public Utilities & gigabit internet"
 date:   2020-07-08 15:17:16 -0400
-categories: gigabit internet
-tag: utilities
+categories: ['gigabit internet']
+tags: ['utilities', 'network', 'gigabit']
 excerpt_separator: <!--more-->
 ---
 
-Public Utlities that provide internet services (& TV & Phone, though not to a similar uptake) to their subscribers exist in a very interesting spot - <!--more-->
+<!--more-->
+{% include image.html 
+max-width="200px" file="/assets/img/blog/utilities.jpg" alt="Public utilities"
+description="Photo by creditscoregeek.com" %} 
+
+Public Utlities that provide internet services (& TV & Phone, though not to a similar uptake) to their subscribers exist in a very interesting spot - 
 while they tend to be funded/backed by the local municipalities and thus enjoy some tax/subsidy benefits, they also compete with larger and more established
 players that may be operating in their market viz. Comcast, Charter, Altice and so forth. Therefore, their services tend to be evaluated in the same 
 breath as someone who perhaps has a billion dollars set aside for [engineering budget](https://en.wikipedia.org/wiki/Comcast_Technology_Center)
@@ -20,6 +25,15 @@ products & technologies that they were never the intended primary target audienc
 Through this blog, we intend to create resources that could help operators choose/decide between various technology options avilable to them. These resources are 
 intended to be free, but if you wish to contact us - please feel free to fill in the contact form or drop an email to us
 
+<!-- Copy and Paste Me -->
+<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
+  <iframe
+    src="https://glitch.com/embed/#!/embed/spiced-mixed-dodo?path=index.html&previewSize=100&attributionHidden=true"
+    title="spiced-mixed-dodo on Glitch"
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
 <!---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
