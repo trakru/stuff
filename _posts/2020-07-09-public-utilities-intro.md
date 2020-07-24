@@ -9,9 +9,15 @@ excerpt_separator: <!--more-->
 ---
 
 <!--more-->
-{% include image.html 
+<!--{% include image.html
 file="/assets/img/blog/utilities.jpg" alt="Public utilities"
-description="Photo by creditscoregeek.com" %} 
+description="Photo by creditscoregeek.com" %}
+-->
+
+<figure>
+  <img src="{{site.url}}/assets/img/blog/utilities.jpg" alt="Public Utilities"/>
+  <figcaption>Photo by creditscoregeek.com</figcaption>
+</figure>
 
 Public Utlities that provide internet services (& TV & Phone, though not to a similar uptake) to their subscribers exist in a very interesting spot - 
 while they tend to be funded/backed by the local municipalities and thus enjoy some tax/subsidy benefits, they also compete with larger and more established

@@ -1,7 +1,5 @@
- ---
- ---
-
-@import "{{ site.theme }}";
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 input[type="text"], input[type="email"], input[type="search"], 
 input[type="submit"], button, textarea { 
   padding: 1em 1.5em; 
