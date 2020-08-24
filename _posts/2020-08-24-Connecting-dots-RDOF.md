@@ -2,13 +2,13 @@
 layout: post
 author: atrakru@bbh-llc.com
 title:  "Connecting the dots on RDOF"
-date:   2020-07-24 8:00:00 -0400
+date:   2020-08-24 8:00:00 -0400
 categories: ['5G', 'internet']
 tag: ['municipal broadband', '5G', 'RDOF', 'internet', 'service providers', 'internetofthings']
 excerpt_separator: <!--more-->
 ---
 
-Read this [story on Medium](https://medium.com/@atrakru/connecting-the-dots-on-rdof-61dbb0091bcd
+Read this [story on Medium](https://medium.com/@atrakru/connecting-the-dots-on-rdof-61dbb0091bcd)
 
 <!--more-->
 <figure>
@@ -18,23 +18,27 @@ Read this [story on Medium](https://medium.com/@atrakru/connecting-the-dots-on-r
 
 ### What it is
 
-THE RDOF is FCC's [proposed answer](https://www.fcc.gov/implementing-rural-digital-opportunity-fund-rdof-auction) to the question of how to fund the development & deployment of broadband networks in rural America. Overall, the aim is to raise around $20.4Bn over 10 years via auctions to connect homes to a minimum of 25/3 Mbps (downstream speed/upstream speed). The actual proposed tiers are:
+THE RDOF is FCC's [proposed answer](https://www.fcc.gov/implementing-rural-digital-opportunity-fund-rdof-auction) to the question of how to fund the development & deployment of broadband networks in rural America. Overall, the aim is to raise around $20.4Bn over 10 years via auctions to connect homes to a minimum of 25/3 Mbps (downstream speed/upstream speed).
+
+#### Proposed Speed tiers
 
 | Tier      | Downstream/Upstream Mbps | Usage Allowance |
 | :--- | :----: | :---|
-| Minimum      | 25/3     | ≥ 250 GB or U.S. average,
-whichever is higher|
-| Baseline   | 50/10        |   ≥ 250 GB or U.S. average,
-whichever is higher|
+| Minimum      | 25/3     | ≥ 250 GB or U.S. average|
+| Baseline   | 50/10        |   ≥ 250 GB or U.S. average|
 | Above Baseline   | 100/20        |    ≥ 2 TB |
 | gigabit  | 1000/500        |    ≥ 2 TB
 
 In addition to performance tiers, the other key criteria that bears notice is the requirement for Latency
 
+#### Proposed Latency tiers
+
 | Latency | Requirement | Weight |
 | :--- | :--- | :----: |
 | Low Latency | ≤ 100 ms | 0 |
 | High Latency | ≤ 750 ms & MOS ≥ 4 | 40 |
+
+While this may not seem significant, these latency tiers have played a crucial part in excluding some providers, as discussed in later sections
 
 ### Other programs
 
