@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Linear optimization or Machine Learning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @BbhTrackingtech
+twitter_username: BbhTrackingtech
 github_username:  bbh-llc
 
 # Build settings
