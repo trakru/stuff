@@ -13,9 +13,13 @@ Read this [story on Medium](newlink)
 
 <!--more-->
 <figure>
-  <img src="{{site.url}}/assets/img/blog/rdof-1.jpeg" alt="rdof"/>
-  <figcaption>Photo by Jen Theodore on Unsplash</figcaption>
+  <img src="{{site.url}}/assets/img/blog/cband" alt="rdof"/>
+  <figcaption>Photo by Ben Wicks on Unsplash</figcaption>
 </figure>
+
+<!---
+<span>Photo by <a href="https://unsplash.com/@profwicks?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ben Wicks</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+-->
 
 ### What it is
 <!-- Copy and Paste Me -->
