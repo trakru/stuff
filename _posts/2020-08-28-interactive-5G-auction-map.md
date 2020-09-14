@@ -11,7 +11,7 @@ Interactive map showing the results of the recently concluded 5G auctions
 
 <!--more-->
 
-<div style="height: 500px; width: 100%;">
+<div style="height: 1080px; width: 100%;">
   <iframe
     src="https://trakru.shinyapps.io/auction-105-results/"
     title="5G Auction results"
