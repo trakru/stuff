@@ -19,16 +19,16 @@ description="Photo by creditscoregeek.com" %}
   <figcaption>Photo by creditscoregeek.com</figcaption>
 </figure>
 
-Public Utlities that provide internet services (& TV & Phone, though not to a similar uptake) to their subscribers exist in a very interesting spot - 
+Public Utilities that provide internet services (& TV & Phone, though not to a similar uptake) to their subscribers exist in a very interesting spot -
 while they tend to be funded/backed by the local municipalities and thus enjoy some tax/subsidy benefits, they also compete with larger and more established
-players that may be operating in their market viz. Comcast, Charter, Altice and so forth. Therefore, their services tend to be evaluated in the same 
+players that may be operating in their market viz. Comcast, Charter, Altice and so forth. Therefore, their services tend to be evaluated in the same
 breath as someone who perhaps has a billion dollars set aside for [engineering budget](https://en.wikipedia.org/wiki/Comcast_Technology_Center)
 
 
 As a result, techbnology suppliers tend to service the needs of the larger MSOs while Utilities end up having to navigate a confused mish-mash of resourcdes,
-products & technologies that they were never the intended primary target audience for. 
+products & technologies that they were never the intended primary target audience for.
 
-Through this blog, we intend to create resources that could help operators choose/decide between various technology options avilable to them. These resources are 
+Through this blog, we intend to create resources that could help operators choose/decide between various technology options avilable to them. These resources are
 intended to be free, but if you wish to contact us - please feel free to fill in the contact form or drop an email to us
 
 
